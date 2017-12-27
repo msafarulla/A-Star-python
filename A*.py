@@ -3,7 +3,7 @@
   I am still working on this to optimizd as suggested and I will post updated code once I am done
  
   note : My first git repository. Please excuse flaws and lack of adherence to standards.
-  I will get there eventually.
+  I am very new to this space and will get there asap.
  """
 
 import networkx as nx
